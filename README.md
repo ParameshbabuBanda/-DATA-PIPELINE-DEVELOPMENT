@@ -116,3 +116,7 @@ Transformation includes label encoding the target and scaling numerical features
 Loading involves splitting the dataset into training and testing sets for model building and validation.
 
 Each step follows best practices for a typical data preprocessing pipeline and ensures the data is in a clean, numerical, and scaled format before it is fed into a machine learning algorithm. The modularity and simplicity of this script make it easy to adapt to different datasets or extend further for more complex data preparation tasks such as feature engineering, handling missing values, or more advanced transformations.
+
+![Image](https://github.com/user-attachments/assets/43040605-e356-4853-9689-f3a572af9892)
+
+

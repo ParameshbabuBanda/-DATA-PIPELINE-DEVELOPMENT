@@ -8,7 +8,7 @@ INTERN ID : CT04WS27
 
 DOMAIN : DATA SCIENCE
 
-MANTOR : NEELA SANTHOSH KUMAR
+MENTOR : NEELA SANTHOSH KUMAR
 
 Description of the Data Pipeline Development Code
 This Python script demonstrates a basic ETL (Extract, Transform, Load) pipeline for preparing a machine learning dataset, specifically a loan dataset. It uses popular libraries such as Pandas and Scikit-learn for handling data operations, encoding, scaling, and splitting the dataset into training and testing sets. Let's go through each part of the script step-by-step.
